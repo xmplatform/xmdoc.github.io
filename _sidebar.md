@@ -13,6 +13,10 @@
   - [数据库加密](generic/dbEncrypt.md)
   - [数据源切换](generic/datasource.md)
   - [防重复提交](generic/dataRepeat.md)
+  
+- 标签
+
+  - [数据字典标签](generic/dict.md)
 
 - Admin端
   
