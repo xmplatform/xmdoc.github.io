@@ -1,4 +1,4 @@
-# FUN-BOOT  LISENCE
+# XM-PLATFORM  LISENCE
 
 ### 除了需遵守仓库标注的开源协议外，还需遵守以下协议条款：
 

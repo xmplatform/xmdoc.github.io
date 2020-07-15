@@ -4,5 +4,5 @@
 
 <img src="http://www.xmplatform.com/xmdoc.github.io/assets/index-img.png" style="width: 20%; height: 20%">
 
-[//]:#([下载](http://www.xmplatform.com))
-[开始使用](/generic/desc?id=✨-简介)
+[首页](http://www.xmplatform.com)
+[开发文档](/generic/desc?id=✨-简介)
