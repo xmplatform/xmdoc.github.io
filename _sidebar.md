@@ -9,6 +9,7 @@
   - [任务调度](generic/task.md)
   - [接口限流](generic/limit.md)
   - [日志配置](generic/logConfig.md)
+  - [国际化](generic/i18n.md)
   - [数据库加密](generic/dbEncrypt.md)
   - [数据源切换](generic/datasource.md)
   - [防重复提交](generic/dataRepeat.md)
