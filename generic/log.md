@@ -4,8 +4,8 @@
 
 
 ```html
-[baseUrl]/sys/log/level/test
-[baseUrl]/sys/log/level/test?packageName=[包名]
+[baseUrl]/log/level/test
+[baseUrl]/log/level/test?packageName=[包名]
 ```
 
 **动态修改当前日志级别**
@@ -13,5 +13,5 @@
 [日志级别]枚举值为：OFF,FATAL,ERROR,WARN,INFO,DEBUG,TRACE,ALL
 
 ```html
-[baseUrl]/sys/log/level/[日志级别]
+[baseUrl]/log/level/[日志级别]
 ```
