@@ -14,9 +14,9 @@
   - [数据源切换](generic/datasource.md)
   - [防重复提交](generic/dataRepeat.md)
   
-- 标签
-
+- 其他
   - [数据字典标签](generic/dict.md)
+  - [日志级别](generic/log.md)
 
 - Admin端
   
