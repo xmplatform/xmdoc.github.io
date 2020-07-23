@@ -43,6 +43,11 @@
   - [权限验证](app/verifyPerms.md)
   - [代码生成工具](app/code.md)
   - [注意事项](app/notice.md)
+  
+- 开发相关
+  - maven相关
+      - [主项目与子项目同时修改版本号](dev/mavenVersion.md)
+  - [待写](generic/log.md)
 
 - 指南
   
