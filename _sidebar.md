@@ -47,6 +47,8 @@
 - 开发相关
   - maven相关
       - [主项目与子项目同时修改版本号](dev/mavenVersion.md)
+  - springboot相关
+        - [yml中的配置名称不能使用驼峰命名](dev/mavenVersion.md)
   - [待写](generic/log.md)
 
 - 指南
